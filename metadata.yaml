@@ -1,0 +1,34 @@
+_repo: Said-the-Observer_12832
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stellman, Louis J. (Louis John)
+    aliases:
+    - Stellmann, Louis J. (Louis John)
+    - Stellman, Louis John
+    birthdate: 1877
+    deathdate: 1961
+    gutenberg_agent_id: '4653'
+    url: http://www.gutenberg.org/2009/agents/4653
+    wikipedia: http://en.wikipedia.org/wiki/Louis_J._Stellman
+description: ''
+gutenberg_issued: '2004-07-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12832'
+  lccn: 03028123
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'American wit and humor'
+- GITenberg
+tableOfContents: Influence of the pipe -- Our friend the murderer -- Science and weather
+  -- The essentials of greatness -- Horse sense -- The mannish woman -- A wonderful
+  machine -- Drawbacks of the king business -- The eating habit -- Delights of flashlight
+  photography -- Wonders of spiritualism -- The potency of the testimonial -- Ambitions
+  and things -- The telephone face.
+title: Said the Observer
+url: http://www.gutenberg.org/ebooks/12832
