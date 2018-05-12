@@ -1,5 +1,8 @@
 _repo: Said-the-Observer_12832
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Stellman, Louis J. (Louis John)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4653
     wikipedia: http://en.wikipedia.org/wiki/Louis_J._Stellman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12832#Said-the-Observer
 gutenberg_issued: '2004-07-06'
 gutenberg_type: Text
 identifiers:
